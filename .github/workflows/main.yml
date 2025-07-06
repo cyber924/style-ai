@@ -21,3 +21,4 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_LIFEAI_ERN1C }}'
           projectId: lifeai-ern1c
           channelId: live
+
